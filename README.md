@@ -132,7 +132,7 @@ An **AI-driven weather prediction system** that uses supervised learning and neu
 
 ### 2. Model Evaluation Results
 
-![Model Evaluation](screenshots/model_evaluation.png)
+![Model Evaluation](https://github.com/Tempest205/SDG-AI-Assignment/blob/main/model%20evaluation.png)
 
 **Detailed Classification Report:**
 - **Overall Accuracy:** 85.1% across 8,125 test samples
