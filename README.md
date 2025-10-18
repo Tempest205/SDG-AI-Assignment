@@ -118,7 +118,7 @@ An **AI-driven weather prediction system** that uses supervised learning and neu
 
 ### 1. Model Training Progress
 
-![Training History](screenshots/training_history.png)
+![Training History](https://github.com/Tempest205/SDG-AI-Assignment/blob/main/model%20accuracy%20.png)
 
 *The model achieved 84.5% training accuracy and 85.1% validation accuracy over 50 epochs, showing excellent convergence with minimal overfitting.*
 
