@@ -150,7 +150,7 @@ An **AI-driven weather prediction system** that uses supervised learning and neu
 
 ### 3. Prediction Demonstrations
 
-![Predictions](screenshots/predictions.png)
+![Predictions](https://github.com/Tempest205/SDG-AI-Assignment/blob/main/prediction%20demonstrations.png)
 
 **Real-World Scenario Testing:**
 
