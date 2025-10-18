@@ -190,7 +190,7 @@ The model demonstrates strong confidence (100%) but shows systematic bias toward
 
 ### 4. Confusion Matrix Analysis
 
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](https://github.com/Tempest205/SDG-AI-Assignment/blob/main/confusion%20matrix.png)
 
 **Matrix Interpretation:**
 
