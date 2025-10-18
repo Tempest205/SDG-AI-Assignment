@@ -209,7 +209,7 @@ The confusion matrix reveals:
 
 ### 5. Feature Distributions
 
-![Feature Distributions](screenshots/feature_distributions.png)
+![Feature Distributions](https://github.com/Tempest205/SDG-AI-Assignment/blob/main/weather%20feature%20distribution.png)
 
 **Data Characteristics:**
 
